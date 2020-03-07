@@ -1,0 +1,21 @@
+
+Author: Amy Eisenmenger u1209324
+
+---------- CS6640: IMAGE PROCESSING ASSIGNMENT 3 ----------
+
+----- RUNNING INSTRUCTIONS -----
+
+main.m will run all functions and save output images or graphs when applicable.
+Some figures may pop up before closing on their own.
+
+The running order is:
+
+Phase Correlation on Lena/ Lena2
+Phase Correlation on Lena/ Lena3
+Wiener Restore for Fingerprint
+Wiener Restore for Boat
+Butterworth Band Reject for House/Noisy House 1
+Butterworth Band Reject for House/Noisy House 2
+
+
+The file will take approximately 40 seconds to run all the functions.

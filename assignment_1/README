@@ -1,0 +1,28 @@
+
+Author: Amy Eisenmenger u1209324
+
+---------- CS6640: IMAGE PROCESSING ASSIGNMENT 1 ----------
+
+----- RUNNING INSTRUCTIONS -----
+
+main.m will run all functions and save output images or graphs when applicable.
+The running order is:
+
+Histogram on brain and my two additional images
+The number of desired bins can be set as a variable (n) on line 16
+
+Otsu Thresholding on brain, turkeys, and two additional images
+
+Flood Fill on brain (to show a single iteration)
+
+Connected Component brain, turkeys, two additional images, and shapes
+
+Dual Thresholding on brain, turkeys, two additional images, and shapes
+Minimum and Maximum values for the thresholds were calculated manually
+
+Connected Component on the dual-threshold binary images for brain, turkeys, two additional images, and shapes
+
+Topological Denoising on shapes and the two additional images
+
+
+The file will take approximately 132 seconds (~2.5 minutes) to run all the functions.

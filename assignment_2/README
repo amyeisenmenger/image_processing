@@ -1,0 +1,22 @@
+
+Author: Amy Eisenmenger u1209324
+
+---------- CS6640: IMAGE PROCESSING ASSIGNMENT 2 ----------
+
+----- RUNNING INSTRUCTIONS -----
+
+main.m will run all functions and save output images or graphs when applicable.
+Some figures may pop up before closing on their own.
+The labeled graph of the Hough transform matrix will save in the main folder rather than output
+and I cannot figure out how to set permissions otherwise.
+
+The running order is:
+
+GaussianFilter
+BilateralFilter
+MSE
+Gradient 
+Hough Transform
+
+
+The file will take approximately 10 seconds to run all the functions.
